@@ -1,8 +1,8 @@
 # LSL Routing:
 ## General:
->> **CREATED** 06/24/2025 by Benjamin Reynolds
->> 
->> **MODIFIED** 03/09/2025 by Benjamin Reynolds
+> **CREATED** 06/24/2025 by Benjamin Reynolds
+> 
+> **MODIFIED** 03/09/2025 by Benjamin Reynolds
 ## Required Libraries:
 > - [time](https://docs.python.org/3/library/time.html)
 > - [pylsl](https://github.com/labstreaminglayer/pylsl)
