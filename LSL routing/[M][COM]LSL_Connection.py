@@ -1,6 +1,11 @@
 '''
-AUTHOR:     Benjamin Reynolds
-UPDATED:    03/09/2025
+Created on Jun 2024 by Benjamin Reynolds
+https://github.com/Ben2260/Custom_Development/tree/main/LSL%20routing
+
+Modified 03/09/2025 by Benjamin Reynolds
+
+@author: Bere2260
+
 
 Title:      [M][COM]LSL_Connection.py
 
