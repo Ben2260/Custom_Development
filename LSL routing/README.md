@@ -1,14 +1,14 @@
 # LSL Routing:
+## General:
+>> **CREATED** 06/24/2025 by Benjamin Reynolds
+>> 
+>> **MODIFIED** 03/09/2025 by Benjamin Reynolds
 ## Required Libraries:
 > - [time](https://docs.python.org/3/library/time.html)
-> - pylsl
-> - socket
-> - keyboard
+> - [pylsl](https://github.com/labstreaminglayer/pylsl)
+> - [socket](https://docs.python.org/3/library/socket.html)
+> - [keyboard](https://pypi.org/project/keyboard/)
 
-import socket
-from pylsl import StreamInfo, StreamOutlet, local_clock
-import time
-import keyboard
 
 Created on Jun 2024 by Benjamin Reynolds
 https://github.com/Ben2260/Custom_Development/tree/main/LSL%20routing
